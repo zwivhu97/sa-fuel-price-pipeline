@@ -1,3 +1,5 @@
 requests
 pytest
 duckdb
+streamlit
+pandas
